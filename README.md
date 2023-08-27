@@ -1,2 +1,1 @@
-# ElectriumFW
-Electrium Firmware
+# bike-firmware
