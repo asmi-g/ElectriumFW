@@ -10,10 +10,10 @@ This is a collection of firmware written for Electrium Mobility, a University of
 #### Software Block Diagrams
 
 ##### Motor Control Diagram
-![alt text](motorcontrol-diagram.png)
+![alt text](motorcontrol-diagram.PNG)
 
 ##### Battery Saving Mode Diagram
-![alt text](ecomode-diagram.png)
+![alt text](ecomode-diagram.PNG)
 
 <!--##### Regen Braking Diagram!-->
 <!--![alt text](regenbraking-diagram.png)!-->
