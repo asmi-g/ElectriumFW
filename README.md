@@ -1,6 +1,6 @@
 # bike-firmware
 
-This is a collection of firmware written for Electrium Mobility, a University of Waterloo design team, for the electric bike project.
+This is a collection of firmware written for Electrium Mobility, a University of Waterloo design team, for the electric bike project. Code in this repository is to be used to drive the bike's electric motor controller, consisting of a motor driver, and an STM32 MCU (outlined below).
 
 - **errorHandling/motor_driver.c**
   - This SPI communication code is used for detecting over-thermal and over-current detection using the readDRV8301() function. The writeDRV8301() function is used to talk to the device via the motor driver.
